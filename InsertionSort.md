@@ -1,6 +1,6 @@
 # Insertion Sort Ödevi
 
-## Sorular
+## Sorular 1
 1. Yukarı verilen dizinin sort türüne göre aşamalarını yazınız.
 2. Big-O gösterimini yazınız.
 3. Time Complexity: Average case: Aradığımız sayının ortada olması,Worst case: Aradığımız sayının sonda olması, Best case: Aradığımız sayının dizinin en başında olması.
@@ -17,3 +17,12 @@
   
 ### Cevap 3 - 4
   18 sayısı ortada kaldığı için Average Case kapsamına girer.
+
+## Sorular 2
+1. [7,3,5,8,2,9,4,15,6] dizisinin Insertion Sort'a göre ilk 4 adımını yazınız.
+
+### Cevap 1
+  1.	Adım: [2, 3, 5, 8, 7, 9, 4, 15, 6]
+  2.	Adım: [2, 3, 5, 8, 7, 9, 4, 15, 6]
+  3.	Adım: [2, 3, 4, 8, 7, 9, 5, 15, 6]
+  4.	Adım: [2, 3, 4, 5, 7, 9, 8, 15, 6]
