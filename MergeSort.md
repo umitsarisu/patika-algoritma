@@ -23,4 +23,4 @@
  * Big-O gösterimini yazınız.
 
 ### Cevap 2
-  O(nlogn)
+  1. O(nlogn)
