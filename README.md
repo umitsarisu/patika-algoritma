@@ -1,0 +1,2 @@
+# patika-algoritma
+Algoritma ödevleri
